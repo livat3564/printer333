@@ -1,0 +1,59 @@
+body {
+    background: gray;
+}
+
+.container {
+    width: 400px;
+    height: 390px;
+    background-image: url(https://i.pinimg.com/564x/58/6f/d4/586fd470087d9605c9e247f1f6a488e4.jpg);
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 1000px;
+}
+h2 {
+    color: aqua;
+}
+
+h3 {
+    line-height: 2px;
+    color:aqua;
+}
+
+label{
+    color: #4CAF50;
+}
+
+form {
+    margin-top: 40px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 70%;
+    padding: 10px;
+    border: none;
+    border-radius: 100px;
+    background: gold;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.register {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
+
+.register a {
+    text-decoration: none;
+    color: #4CAF50;
+}
